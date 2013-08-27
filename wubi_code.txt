@@ -1,10 +1,4 @@
-五笔字型码 字典 //五笔字型码总表   拼音检索
-2010年12月14日 星期二
-
-
-音 /字 码 　 字 码 　 字 码 　 字 码 　 字 码 
-　 　 　 　 　 　 　 　 　 　 　 　 　 　 　 
-a  啊 kb    阿 bs    吖 kuh   腌 edjn  锕 qbs 
+﻿a  啊 kb    阿 bs    吖 kuh   腌 edjn  锕 qbs 
 ai 挨 rct   哎 kaq   唉 kct   哀 yeu   埃 fct 
 　 皑 rmnn  癌 ukk   蔼 ayj   矮 tdtv  艾 aqu 
 　 碍 djg   爱 ep    隘 buw   捱 rdff  嗳 kep 
@@ -13,7 +7,7 @@ an 氨 rnp   鞍 afp   安 pv    俺 wdjn  按 rpv
 　 暗 ju    岸 mdfj  胺 epv   案 pvs   谙 yuj 
 　 埯 fdjn  揞 rujg  犴 qtfh  庵 ydjn  桉 spv 
 　 铵 qpv   鹌 djng  黯 lfoj  　 　  　 　 
-ang肮 eym   昂 jqb   盎 mdl  　 　  　 　 
+ang 肮 eym   昂 jqb   盎 mdl  　 　  　 　 
 ao 凹 mmgd  敖 gqty  熬 gqto  翱 rdfn  袄 putd 
 　 傲 wgqt  奥 tmo   懊 ntm   澳 itm   坳 fxl 
 　 拗 rxl   嗷 kgqt  岙 tdm   廒 ygq   遨 gqtp 
@@ -24,28 +18,28 @@ ba 芭 ac    捌 rklj  扒 rwy   叭 kwy   吧 kc
 　 跋 khdc  靶 afc   把 rcn   耙 dic   坝 fmy 
 　 霸 faf   罢 lfc   爸 wqc   茇 adc   菝 ard 
 　 岜 mcb   灞 ifa   钯 qcn   粑 ocn  　 　 
-bai白 rrrr  柏 srg   百 dj    摆 rlf   佰 wdj 
+bai 白 rrrr  柏 srg   百 dj    摆 rlf   佰 wdj 
 　 败 mty   拜 rdfh  稗 trtf  捭 rrtf  掰 rwvr 
-ban斑 gyg   班 gytg  搬 rte   扳 rrc   般 temc 
+ban 斑 gyg   班 gytg  搬 rte   扳 rrc   般 temc 
 　 颁 wvd   板 src   版 thgc  扮 rwv   拌 rufh 
 　 伴 wuf   瓣 ur    半 uf    办 lw    绊 xuf 
 　 阪 brcy  坂 frc   钣 qrc   瘢 utec  舨 terc 
-bang邦 dtb  帮 dt    梆 sdt   榜 sup   膀 eup 
+bang 邦 dtb  帮 dt    梆 sdt   榜 sup   膀 eup 
 　 绑 xdt   棒 sdw   磅 dup   蚌 jdh   镑 qup 
 　 傍 wup   谤 yup   蒡 aupy  浜 irgw  　 　 
-bao胞 eqn   包 qn    褒 ywk   剥 vijh  苞 aqn 
+bao 胞 eqn   包 qn    褒 ywk   剥 vijh  苞 aqn 
 　 薄 aigf  雹 fqn   保 wks   堡 wksf  饱 qnqn 
 　 宝 pgy   抱 rqn   报 rb    暴 jaw   豹 eeqy 
 　 鲍 qgq   爆 oja   葆 awks  孢 bqn   煲 wkso 
 　 鸨 xfq   褓 puws  趵 khqy  龅 hwbn  　 　 
-bei杯 sgi   碑 drt   悲 djdn  卑 rtfj  北 ux 
+bei 杯 sgi   碑 drt   悲 djdn  卑 rtfj  北 ux 
 　 辈 djdl  背 uxe   贝 mhny  钡 qmy   倍 wuk 
 　 狈 qtmy  备 tlf   惫 tln   焙 ouk   被 puhc 
 　 邶 uxb   埤 frt   萆 art   蓓 awuk  呗 kmy 
 　 悖 nfpb  碚 duk   鹎 rtfg  褙 puue  鐾 nkuq 
-ben奔 dfa   苯 asg   本 sg    笨 tsg   畚 cdl 
+ben 奔 dfa   苯 asg   本 sg    笨 tsg   畚 cdl 
 　 坌 wvff  贲 fam   锛 qdf  　 　  　 　 
-beng崩 mee  绷 xee   甭 gie   泵 diu   蹦 khme 
+beng 崩 mee  绷 xee   甭 gie   泵 diu   蹦 khme 
 　 迸 uap   嘣 kmee  　 　  　 　  　 　 
 bi 陛 bxxf  匕 xtn   俾 wrt   荜 axxf  薜 anku 
 　 吡 kxx   哔 kxxf  狴 qtxf  庳 yrt   愎 ntjt 
@@ -56,18 +50,18 @@ bi 陛 bxxf  匕 xtn   俾 wrt   荜 axxf  薜 anku
 　 毕 xxf   毙 xxgx  币 tmh   庇 yxx   痹 ulgj 
 　 闭 uft   敝 umi   必 nt    辟 nku   壁 nkuf 
 　 弊 umia  臂 nkue  避 nkup  　 　   　 　 
-bian褊 puya 蝙 jyna  笾 tlp   鳊 qgya  鞭 afwq 
+bian 褊 puya 蝙 jyna  笾 tlp   鳊 qgya  鞭 afwq 
 　 边 lp    编 xyna  贬 mtp   扁 ynma  便 wgjq 
 　 变 yoc   卞 yhu   辨 uytu  辩 uyu   辫 uxu 
 　 遍 ynm   匾 ayna  弁 caj   汴 iyh   飚 mqoo 
 　 煸 oyna  砭 dtp   碥 dyna  窆 pwtp  　 　 
-biao标 sfi  彪 hame  膘 esfi  表 ge    婊 vgey 
+biao 标 sfi  彪 hame  膘 esfi  表 ge    婊 vgey 
 　 骠 csf   飑 mqqn  镖 qsf   裱 puge  鳔 qgs 
-bie鳖 umig  憋 umin  别 klj   瘪 uthx  蹩 umih 
-bin彬 sse   斌 yga   濒 ihim  滨 ipr   宾 pr 
+bie 鳖 umig  憋 umin  别 klj   瘪 uthx  蹩 umih 
+bin 彬 sse   斌 yga   濒 ihim  滨 ipr   宾 pr 
 　 摈 rpr   缤 xpr   槟 spr   殡 gqp   膑 epr 
 　 镔 qpr   髌 mepw  鬓 depw  　 　  　 　 
-bing兵 rgw  冰 ui    柄 sgm   丙 gmw   秉 tgv 
+bing 兵 rgw  冰 ui    柄 sgm   丙 gmw   秉 tgv 
 　 饼 qnu   炳 ogm   病 ugm   并 ua    禀 ylki 
 　 摒 rnua  邴 gmwb  　 　  　 　  　 　 
 bo 饽 qnfb  檗 nkus  擘 nkur  礴 dai   钹 qdcy 
@@ -83,13 +77,13 @@ bu 捕 rge   卜 hhy   哺 kge   补 puh   埠 fwn
 　 钸 qdmh  醭 sgoy  　 　  　 　  　  
 　 　 　  　 　  　 　  　 　  　 　 
 ca 擦 rpwi  嚓 kpwi  礤 daw  　 　  　 　 
-cai猜 qtge  裁 fay   材 sft   才 ft    财 mft 
+cai 猜 qtge  裁 fay   材 sft   才 ft    财 mft 
 　 睬 hes   踩 khes  采 es    彩 ese   菜 aes 
 　 蔡 awfi  　 　  　 　  　 　  　 　 
-can餐 hq    参 cd    蚕 gdj   残 gqg   惭 nlr 
+can 餐 hq    参 cd    蚕 gdj   残 gqg   惭 nlr 
 　 惨 ncd   灿 om    骖 ccd   璨 ghq   黪 lfoe 
-cang苍 awb  舱 tew   仓 wbb   沧 iwb   藏 adnt 
-cao操 rkk   糙 otf   槽 sgmj  草 ajj   嘈 kgmj 
+cang 苍 awb  舱 tew   仓 wbb   沧 iwb   藏 adnt 
+cao 操 rkk   糙 otf   槽 sgmj  草 ajj   嘈 kgmj 
 　 漕 igmj  螬 jgmj  艚 tegj  　 　  　 　 
 ce 厕 dmjk  策 tgm   侧 wmj   册 mmgd  测 imj 
 　 恻 nmj  　 　  　 　  　 　  　 　 
@@ -1395,7 +1389,7 @@ zhi 埴 ffhg  芷 ahf  摭 rya  帙 mhrw  彘 xgxx
 　 咫 nyk  骘 bhic  栉 sab  枳 skw  栀 srgb 
 　 桎 sgcf  轵 lkw  轾 lgc  贽 rvym  胝 eqa 
 　 膣 epwf  祉 pyhg  祗 pyqy  黹 ogui  雉 tdwy 
- 鸷 ryvg  痣 ufni  絷 rvyi  酯 sgxj  跖 khdg 
+　 鸷 ryvg  痣 ufni  絷 rvyi  酯 sgxj  跖 khdg 
 　 踬 khrm  踯 khub  豸 eer  觯 qeuf  芝 ap 
 　 枝 sfc  支 fc  吱 kfc  蜘 jtdk  肢 efc 
 　 脂 ex  汁 ifh  之 pppp  织 xkw  职 bk 
@@ -1456,5 +1450,3 @@ zun 尊 usg  遵 usgp  撙 rus  樽 susf  鳟 qguf
 zuo 昨 jt  左 da  佐 wda  柞 sth  做 wdt 
 　 作 wt  坐 wwf  座 yww  阼 bth  唑 kww 
 　 嘬 kjb  怍 nth  胙 eth  笮 tth  酢 sgtf 
- 
-
