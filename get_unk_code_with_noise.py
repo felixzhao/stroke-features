@@ -1,19 +1,15 @@
 import sys
 
-noise_size = int(sys.argv[1])
-
-#if noise_size < 1 or noise_size > 4:
-#    noise_size = 0
+word_map_file = sys.argv[1]
+noise_size = int(sys.argv[2])
+word_map_type = sys.argv[3]
     
 noise = 'z'*noise_size
 
-wordmap = open('word-map.txt','r')
-strokeCode = open('wubi_code_dict_6563.txt','r')
-
 stroke_code_file = 'wubi_code_dict_6563.txt'
 terms = open(stroke_code_file,'r').readline().split(';')
-wordmap = open('word-map.txt','r').readlines()
-fout = open('unk_code_'+ str(noise_size) + '.txt','w')
+wordmap = open(word_map_file,'r').readlines() #'word-map.txt','r').readlines()
+fout = open('unk_code_ns'+ str(noise_size) + '_type' + word_map_type + '.txt','w')
 
 stroke_dict = {}
 unk_dict = {}
@@ -30,9 +26,9 @@ for line in wordmap:
 for k in unk_dict.keys():
     if k in stroke_dict:
         ## add noise
-        code = noise + stroke_dict[k][noise_size:]
+        code = stroke_dict[k][:len(stroke_dict[k]) - noise_size] + noise
         
-        print k,code
-        print >> fout,k,code
+        print unk_dict[k][:-1], code
+        print >> fout, unk_dict[k][:-1], code
 
 print noise_size
